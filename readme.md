@@ -28,5 +28,7 @@ password="",
 database="seg1"
 ```
 
+Lembre-se apenas de criar a base de dados `seg1`, o sistema cuidará de criar as tabelas.
+
 4. Execute `python3 server.py`
 5. Entre no site no navegador `http://127.0.0.1:8080`
